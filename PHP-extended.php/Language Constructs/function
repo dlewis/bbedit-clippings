@@ -1,0 +1,5 @@
+#indent#
+function #placeholderstart#doSomething#placeholderend#(#insertion#)
+{
+	#insertion#
+}
