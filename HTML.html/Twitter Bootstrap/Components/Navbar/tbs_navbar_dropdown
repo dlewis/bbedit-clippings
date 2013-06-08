@@ -1,0 +1,12 @@
+#INDENT#
+<ul class="nav">
+  <li class="dropdown">
+    <a href="#INSERTION#" class="dropdown-toggle" data-toggle="dropdown">
+      #INSERTION#
+      <b class="caret"></b>
+    </a>
+    <ul class="dropdown-menu">
+      #INSERTION#
+    </ul>
+  </li>
+</ul>

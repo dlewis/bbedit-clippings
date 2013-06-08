@@ -1,0 +1,6 @@
+#INDENT#
+<ul class="breadcrumb">
+  <li><a href="#INSERTION#">#INSERTION#</a> <span class="divider">/</span></li>
+  <li><a href="#INSERTION#">#INSERTION#</a> <span class="divider">/</span></li>
+  <li class="active">#INSERTION#</li>
+</ul>

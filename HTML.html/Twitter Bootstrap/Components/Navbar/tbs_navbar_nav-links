@@ -1,0 +1,8 @@
+#INDENT#
+<ul class="nav">
+  <li class="active">
+    <a href="#INSERTION#">#INSERTION#</a>
+  </li>
+  <li><a href="#INSERTION#">#INSERTION#</a></li>
+  <li><a href="#INSERTION#">#INSERTION#</a></li>
+</ul>
